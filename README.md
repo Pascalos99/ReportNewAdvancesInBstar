@@ -1,2 +1,2 @@
-# ReportNewAdvancesInBstar
+# New Advances in B*
 Research internship report by Pascal R. Anema, supervised by Professor Dr. Mark H.M. Winands and Dr. Dennis J.N.J. Soemers, for the Department of Advanced Computing Sciences at Maastricht University, Maastricht, the Netherlands. The version uploaded here is as written and submitted on 27 February 2025 for the partial examination of a Master of Science in Artificial Intelligence.
